@@ -60,9 +60,9 @@ Si l'utilisateur presse la touche "b", tout redevient normal.
 ## Utilisation / Correction
 
 * Placez-vous dans votre répertoire de travail
-* Cloner le dépôt 
-* Ouvrer la page html dans votre navigateur
-* Lancer la console de dévellopement
+* Clonez ce dépôt 
+* Ouvrez la page html dans votre navigateur
+* Lancez la console de dévellopement
 * Exécutez les scripts
 
 
